@@ -1,0 +1,29 @@
+[
+  
+ 
+ 
+  
+ 
+  
+  
+  {
+    "name": "Netflix HomePage Clone",
+    "desc": "Netflix HomePage design. Built using HTML, CSS.",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "https://dhananjayhareesh.github.io/dj/",
+      "code": ""
+    }
+  },
+  {
+    "name": "Lay's HomePage Clone",
+    "desc": "Lay's HomePage design. Built using HTML, CSS.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://dhananjayhareesh.github.io/dj3/",
+      "code": ""
+    }
+  }
+]
